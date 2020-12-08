@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#091c88",
+    "titleBar.activeBackground": "#091c88",
+    "titleBar.activeForeground": "#FDFBFA"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
