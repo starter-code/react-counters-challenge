@@ -1,3 +1,4 @@
+import React from 'react';
 import Instructions from './Instructions';
 import Counters from './Counters';
 import Total from './Total';
